@@ -1,0 +1,145 @@
+.peaks-bottom {
+    width:100%;
+    aspect-ratio: 900/100;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+.peaks-top {
+    width:100%;
+    aspect-ratio: 900/35;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+.bar {
+    height:22px;
+    background-color: #840084;
+}
+
+.text-comentsys:hover {
+    color: #a340a3 !important;
+}
+
+.text-comentsys {
+    color: #840084 !important;
+}
+
+.text-comentsys p a {
+    color: #840084 !important;
+}
+
+.text-comentsys-light {
+    color: #a340a3 !important;
+}
+
+.text-comentsys-dark {
+    color: #5a005c !important;
+}
+
+.text-comentsys-secondary {
+    color: #4e4e4e !important;
+}
+
+.text-comentsys-muted {
+    color: #b5b5b5 !important;
+}
+
+#comentsys-navbar .nav-link.active {
+    font-weight:600;
+}
+
+#comentsys-breadcrumb .breadcrumb-item.active {
+    font-weight:600;
+}
+
+#comentsys-breadcrumb .breadcrumb-item a {
+    text-decoration: none!important;
+}
+
+.peaks-top {
+    background-image: url('../images/peaks-top.svg');
+}
+
+.peaks-bottom {
+    background-image: url('../images/peaks-bottom.svg');
+}
+
+.bg-comentsys {
+    background-color: #840084;
+}
+
+.bg-comentsys-light {
+    background-color: #a340a3;
+}
+
+.bg-comentsys-dark {
+    background-color: #5a005c;
+}
+
+.bg-comentsys-secondary {
+    background-color: #4e4e4e !important;
+}
+
+.bg-comentsys-muted {
+    background-color: #b5b5b5 !important;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.btn-comentsys {
+    color:#ffffff!important;
+    background-color:#840084!important;
+    border-color:#840084!important;
+}
+.btn-comentsys:hover{
+    background-color:#a340a3!important;
+    border-color:#a340a3!important;
+}
+
+.btn-comentsys-inverse {
+    color:#840084!important;
+    background-color:#ffffff!important;
+    border-color:#ffffff!important;
+}
+.btn-comentsys-inverse:hover{
+    background-color:#a340a3!important;
+    border-color:#a340a3!important;
+    color:#ffffff!important;
+}
+
+.nav-comentsys {
+    color: #ffffff!important;
+}
+
+.nav-comentsys.active {
+    color: #fff!important;
+    background-color:#a340a3!important;
+}
+
+.footer-comentsys {
+    color: #ffffff!important;
+}
+
+.footer-comentsys:hover {
+    color: #a340a3!important;
+}
+
+.text-bg-comentsys {
+    color:#ffffff!important;
+    background-color:#840084!important;
+}
+
+.text-bg-comentsys a {
+    color:#ffffff!important;
+    text-decoration: none!important;
+}
+
+.text-fg-black a {
+    color:#000000!important;
+    text-decoration: none!important;
+}
