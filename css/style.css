@@ -19,7 +19,7 @@
     background-color: #840084;
 }
 
-.text-comentsys:hover {
+.text-comentsys a:hover {
     color: #a340a3 !important;
 }
 
@@ -96,6 +96,7 @@
     background-color:#840084!important;
     border-color:#840084!important;
 }
+
 .btn-comentsys:hover{
     background-color:#a340a3!important;
     border-color:#a340a3!important;
@@ -106,6 +107,7 @@
     background-color:#ffffff!important;
     border-color:#ffffff!important;
 }
+
 .btn-comentsys-inverse:hover{
     background-color:#a340a3!important;
     border-color:#a340a3!important;
@@ -132,6 +134,7 @@
 .text-bg-comentsys {
     color:#ffffff!important;
     background-color:#840084!important;
+    text-decoration: none!important;
 }
 
 .text-bg-comentsys a {
@@ -142,4 +145,24 @@
 .text-fg-black a {
     color:#000000!important;
     text-decoration: none!important;
+}
+
+.accordion-button:not(.collapsed) {    
+    background-color: #D3D3D3!important;
+    color:#840084!important;
+}
+
+.border-comentsys {
+  border: 1px solid #840084 !important;
+}
+
+.btn-outline-comentsys {
+    color:#840084!important;
+    border-color:#840084!important;
+}
+
+.btn-outline-comentsys:hover {
+    color:#ffffff!important;
+    border-color:#840084!important;
+    background-color:#840084!important;
 }
