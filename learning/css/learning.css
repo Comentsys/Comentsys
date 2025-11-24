@@ -1,0 +1,13 @@
+.signup {
+    text-decoration: none!important;
+}
+
+.signup-discount {
+  text-decoration-line: line-through;
+  text-decoration-color: #840084;
+}
+
+.getupdated {
+  text-decoration: none;
+  color: #ffffff!important;  
+}
